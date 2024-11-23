@@ -7,6 +7,7 @@ Earlier this week, I decided to order dinner using the Uber Eats delivery app. I
 
 After selecting the meal the app guided me through customization steps. First I chose two flavors for the wings. Next I picked fries for the side, and ranch as the dressing. Finally I tried to select a drink. This is where things went wrong. The drink selection box would not respond. No matter how many times I tapped it, the app would not let me choose a drink. And without a drink selection, the app would not let me proceed to checkout.
 
+In the wingstop menu, the interface looked like this:
 ![DrinkSelectionUberEats](UberEats_Pic.PNG)
 
 I tried backing out and reselecting the meal, refreshing and restarting the app, but nothing worked. I realized I could not complete my order and was frustrated. The meal I wanted was unattainable. After spending over 15 minutes trying to order and fix the issue, I gave up. I closed the app and drove to Chipotle instead. While Chipotle was not what I initially wanted, I knew I could rely on their in store ordering process.
@@ -15,5 +16,6 @@ This experience showed some good qualities about the app and also some major fla
 
 In terms of **efficiency** the app started off good but ended poorly. I was able to find Wingstop and navigate their menu very quickly. I was also able to customize my order quickly as it was very intuitive. However, the drink selection issue turned a quick 5 minute process into a 15 minute long frustrating process. Because this took me a long time to try and figure out I would say that it was not efficient and wasted my time.
 
+Finally, **satisfaction** was very low. Customizing my wings initially felt very satisfying because the app laid out all of the wing flavors great. This shows the strength of its **customizability**. In the end the satisfaction was gone when I could not check out due to unresponsive drink selection. Also, the lack of **feedback** made the issue even worse as I had no idea why the app would not let me select a drink.
 
-
+In the end, Uber Eats does have strengths like a nice interface and good customizability which feels engaging. However their main weakness was the unresponsive drink selection. I think that they should fix the drink selection bug and add better feedback and error messaging to improve the user experience.
